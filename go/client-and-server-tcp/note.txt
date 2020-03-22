@@ -1,0 +1,8 @@
+網路異常場景
+
+遠端關閉 conn, 本地不 close
+遠端關閉 conn, 本地 close
+遠端關閉 只關閉 Read
+遠端關閉 只關閉 Write
+遠端 kill
+網線被拔 挖斷光纖 機房火災 被牆

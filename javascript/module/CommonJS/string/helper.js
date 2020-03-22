@@ -1,0 +1,1 @@
+module.exports = 'Example of CommonJS module system'

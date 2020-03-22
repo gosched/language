@@ -1,0 +1,7 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/callee

@@ -1,0 +1,28 @@
+// array.concat();
+// array.slice();
+
+// array.copyWithin
+// array.entries
+// array.every
+// array.fill
+// array.filter
+// array.forEach
+// array.join
+// array.lastIndexOf
+// array.map
+// array.reduce
+// array.reduceRight
+// array.shift
+// array.some
+// array.splice
+// array.toLocaleString
+// array.toString
+// array.unshift
+
+// let queue = [];
+// queue.
+
+// let stack = [];
+// stack.
+
+// let linkedList
